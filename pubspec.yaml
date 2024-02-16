@@ -1,4 +1,5 @@
-name: farmassist
+name: disease detection
+
 description: Precision farming application.
 publish_to: 'none'
 version: 1.0.0+1
